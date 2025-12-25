@@ -67,11 +67,20 @@ Visitors scan **QR codes** placed on artifacts and can ask specific questions li
 
 Since the code is private, here are glimpses of the running application:
 
-| Visitor Interface | Admin Control Panel |
+| Login & Authentication | Visitor Interface |
 | :---: | :---: |
-| ![Visitor Chat Screen](assets/home.png) | ![Admin Dashboard](assets/AI_panel.png) |
-| *Visitors ask questions via chat interface* | *Admins manage content and prompts* |
+| ![Login Screen](assets/login.png) | ![Visitor Chat](assets/home.png) |
+| *Secure Admin Login* | *Main User Interaction Screen* |
 
+| Admin Dashboard | System Artifacts |
+| :---: | :---: |
+| ![Admin Panel](assets/AI_panel.png) | ![Artifacts Details](assets/artifacts.png) |
+| *Control Panel & Prompts* | *Generated Outputs & Logs* |
+
+| Quick Access |
+| :---: |
+| <img src="assets/QR_Code.png" width="150"> |
+| *Scan to test on device* |
 ---
 
 ### 🏆 Acknowledgments
