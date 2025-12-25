@@ -63,26 +63,14 @@ Visitors scan **QR codes** placed on artifacts and can ask specific questions li
 
 ---
 
-### 📸 System Previews
+### System Previews
 
 Since the code is private, here are glimpses of the running application:
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Mobile Visitor Interface</b></td>
-      <td align="center"><b>Admin Control Panel</b></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="assets/mobile-view.png" width="250" alt="Visitor Chat Screen" /></td>
-      <td align="center"><img src="assets/admin-dashboard.png" width="400" alt="Admin Dashboard" /></td>
-    </tr>
-    <tr>
-      <td align="center"><i>Visitors ask questions via chat interface</i></td>
-      <td align="center"><i>Admins manage content and prompts</i></td>
-    </tr>
-  </table>
-</div>
+| Visitor Interface | Admin Control Panel |
+| :---: | :---: |
+| ![Visitor Chat Screen](assets/home.png) | ![Admin Dashboard](assets/AI_panel.png) |
+| *Visitors ask questions via chat interface* | *Admins manage content and prompts* |
 
 ---
 
