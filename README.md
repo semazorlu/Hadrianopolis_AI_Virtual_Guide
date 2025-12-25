@@ -72,7 +72,7 @@ Since the code is private, here are glimpses of the running application:
 | ![Login Screen](assets/login.png) | ![Visitor Chat](assets/home.png) |
 | *Secure Admin Login* | *Main User Interaction Screen* |
 
-| Admin Dashboard | System Artifacts |
+| AI | System Artifacts |
 | :---: | :---: |
 | ![Admin Panel](assets/AI_panel.png) | ![Artifacts Details](assets/artifacts.png) |
 | *Control Panel & Prompts* | *Generated Outputs & Logs* |
